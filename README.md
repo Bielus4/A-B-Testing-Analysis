@@ -4,21 +4,6 @@ This project presents an A/B testing analysis for the **E-news Express** platfor
 
 ---
 
-## Project Overview
-
-The analysis compares two versions of a landing page:
-
-- **Old version** (`old`)
-- **New version** (`new`)
-
-The main objectives were to determine whether the new landing page:
-
-1. Increases the time users spend on the page  
-2. Improves the conversion rate  
-3. Affects user behavior based on language preference  
-
----
-
 ## Business Context
 
 E-news Express is a digital news platform seeking to increase its subscriber base. The company observed a decline in new monthly subscriptions and suspects that the current landing page may not effectively engage users or encourage conversions.
